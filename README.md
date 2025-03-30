@@ -1,7 +1,13 @@
-## Hi 👋 ##
+## **Hi 👋**
 
-Hello! I'm Daniel, I am an aspiring Data Scientist with a background in Economics and Economic Policy from the University of Chicago. I have experience with...
-- 
+Hello! I'm Daniel. I am a Data Scientist with a background in Economics and Economic Policy from the University of Chicago, and I have experience with...
+
+- **Languages:** Python, R, SQL 
+- **Libraries:** pandas, numpy, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch
+- **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis
+
+
+
 <!--
 **danielsavila/danielsavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
