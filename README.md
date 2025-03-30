@@ -1,6 +1,7 @@
 ## Hi 👋
 
-test
+Hello! I'm Daniel, I am an aspiring Data Scientist with a background in Economics and Economic Policy from the University of Chicago. I have experience with...
+- 
 <!--
 **danielsavila/danielsavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
