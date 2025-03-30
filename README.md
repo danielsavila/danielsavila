@@ -6,7 +6,7 @@ Hello! I'm Daniel. I am a Data Scientist with a background in Economics from the
 - **Libraries:** pandas, numpy, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch
 - **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis
 
-
+Take a minute to look at some of my projects!
 
 <!--
 **danielsavila/danielsavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
