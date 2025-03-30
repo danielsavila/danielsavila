@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi 👋 ##
 
 Hello! I'm Daniel, I am an aspiring Data Scientist with a background in Economics and Economic Policy from the University of Chicago. I have experience with...
 - 
