@@ -4,7 +4,7 @@ I'm Daniel. I am a Data Scientist with a background in Economics from the Univer
 
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, numpy, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch, statsmodels
-- **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Econometrics, Github
+- **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Econometrics
 
 Take a minute to look at some of my projects!
 
