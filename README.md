@@ -1,6 +1,6 @@
 ## **Hello! Thanks for visiting my portfolio. 👋**
 
-I'm Daniel. I am a Data Scientist with a background in Economics from the University of Chicago, and I have experience with...
+I am a Data Scientist with a background in Economics from the University of Chicago. I have experience with...
 
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, numpy, geopandas, shapely, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch, statsmodels
