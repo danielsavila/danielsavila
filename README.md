@@ -1,6 +1,6 @@
 ## **Hello! Thanks for visiting my portfolio. 👋**
 
-I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small businesses and nonprofits streamline their workflows, modernize their data workflows through cloud implementations, and implement causal inference and prediction methodologies. I have experience with...
+I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small to midsize businesses and nonprofits by streamling their data workflows through cloud implementations, perform program evaluation, and implement prediction tools with machine learning. I have experience with...
 
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, numpy, geopandas, shapely, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch, statsmodels
