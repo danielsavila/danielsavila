@@ -1,10 +1,11 @@
 ## **Hello! Thanks for visiting my portfolio. 👋**
 
-I am an aspiring Data Scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I have a passion for digging into data of all kinds (but specifically economic data), using machine learning and data to tell interesting stories. I have experience with...
+I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small businesses and nonprofits streamline their workflows, modernize their data workflows through cloud implementations, and implement causal inference and prediction methodologies. I have experience with...
 
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, numpy, geopandas, shapely, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch, statsmodels
-- **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Econometrics
+- **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Applied Econometrics
+- **Cloud Providers:** Amazon Web Services, Microsoft Azure
 
 Take a minute to look at some of my projects!
 
