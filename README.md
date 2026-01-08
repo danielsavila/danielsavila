@@ -1,9 +1,9 @@
 ## **Hello! Thanks for visiting my portfolio. 👋**
 
-I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small to midsize businesses and nonprofits in improving program delivery by...
-- reducing the amount of time spent manually tracking data
-- producing evidence to funders that your program has real impact
-- improve effeciency in targeting your population of interest
+I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small to midsize businesses and nonprofits...
+- reduce the amount of time spent manually tracking data
+- produce reproducable evidence that your program has real impact
+- improve how you target your population of interest with machine learning
 
 I have experience with...
 
