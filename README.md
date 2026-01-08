@@ -4,6 +4,7 @@ I am a computational social scientist with a background in Economics, Data Scien
 - reduce the amount of time spent manually tracking data
 - produce reproducable evidence that your program has real impact
 - improve how you target your population of interest with machine learning
+- become more data informed organizations
 
 I have experience with...
 
