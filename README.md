@@ -8,7 +8,7 @@ I am a computational social scientist with a background in Economics, Data Scien
 
 I have experience with...
 
-- **Languages:** Python, SQL
+- **Languages:** Python, R, SQL
 - **Libraries:** pandas, numpy, geopandas, shapely, matplotlib, seaborn, BeautifulSoup, sci-kit learn, Pytorch, statsmodels
 - **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Applied Econometrics
 - **Cloud Providers:** Microsoft Azure
