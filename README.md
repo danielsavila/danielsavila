@@ -3,8 +3,8 @@
 I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small to midsize businesses and nonprofits...
 - reduce the amount of time spent manually tracking data
 - generate reproducable evidence that your program has measurable impact
-- improve how you target your population of interest with machine learning
-- become more data informed organizations
+- improve how you target your population of interest
+- become better data informed organizations
 
 I have experience with...
 
