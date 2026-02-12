@@ -1,10 +1,10 @@
 ## **Hello! Thanks for visiting my portfolio. 👋**
 
-I am a computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support small to midsize businesses and nonprofits...
-- reduce the amount of time spent manually tracking data
-- generate reproducable evidence that your program has measurable impact
-- improve how you target your population of interest
-- become better data informed organizations
+I am a fractional computational social scientist with a background in Economics, Data Science, and Public Policy from the University of Chicago. I support businesses and nonprofits with...
+- reducing the amount of time spent manually tracking data
+- generating reproducable evidence that your program has measurable impact
+- improving how you target your population of interest
+- becoming better data informed organizations
 
 I have experience with...
 
@@ -13,7 +13,7 @@ I have experience with...
 - **Technical Skills:** Applied Micro-Economic Analysis, Machine Learning, Policy Analysis, A/B Testing, Applied Econometrics
 - **Cloud Providers:** Microsoft Azure
 
-Take a minute to look at some of my projects!
+Take a moment to look at some of my projects.
 
 <!--
 **danielsavila/danielsavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
